@@ -3,7 +3,7 @@
 This repository contains my portfolio of production Android systems and applications.
 
 ## Portfolio
-View the portfolio: [link here]
+https://anil-rehan.github.io/portfolio/
 
 ## About
 Senior Android Developer with 5+ years of experience building production-grade Android applications and SDKs used in large-scale mobile environments.
@@ -13,24 +13,31 @@ My work focuses on reliability under real-world conditions, including real-time 
 ## Work Overview
 The portfolio includes:
 
-- SDK-driven Android systems used in large-scale event platforms (10,000+ users)
+- SDK-driven Android systems powering large-scale event platforms (10,000+ users)
 - Real-time attendee tracking systems using BLE and background synchronization
-- Production applications across transport, fueling, healthcare, and sports domains
+- Production Android applications across transport systems, on-demand fueling platforms, virtual healthcare, and sports engagement platforms
 
-Each project describes:
+Each project highlights:
+
 - What the system does
 - What I built
-- Engineering focus
+- Engineering focus (reliability, performance, system behavior)
 - Production impact
 - Supporting links
 
 ## Tech Stack
-Kotlin, Java  
-Android SDK, Jetpack Compose, MVVM, Clean Architecture  
-Coroutines, Flow, WorkManager  
-Room, Retrofit, OkHttp  
-CI/CD (Jenkins, Docker)
 
-## Links
-LinkedIn: https://www.linkedin.com/in/anil-kumar-4bb094304  
-GitHub: https://github.com/anil-rehan
+**Languages**  
+Kotlin, Java
+
+**Android & Architecture**  
+Android SDK, Jetpack Compose, MVVM, Clean Architecture
+
+**Concurrency & Background Work**  
+Coroutines, Flow, WorkManager
+
+**Networking & Storage**  
+Room, Retrofit, OkHttp
+
+**CI/CD & Tooling**  
+Jenkins, Docker
